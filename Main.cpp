@@ -1,9 +1,3 @@
-//////////////////////////////////
-//Michael Cunningham
-//Professor Mohammad Morovati
-//Spring 2022 C++ Language Programming (CIS-2541-NET01)
-//Unit 15 TimeCard
-//////////////////////////////////
 #include<iostream>
 #include<iomanip>
 #include"TimeCard.h"
